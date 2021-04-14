@@ -1,0 +1,25 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: gainsboro;
+}
+
+.quemsomos {
+    color:black;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: rgb(250, 98, 98);
+}
+
+.bg-footer{
+    background-color: gainsboro;
+    color: black;
+}
